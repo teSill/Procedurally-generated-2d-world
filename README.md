@@ -1,4 +1,4 @@
-# Procuderally generated 2d world in Unity
+# Procedurally generated 2d world in Unity
  
 The application attempts to simulate a forest environment. It generates a 400x400 (by default - easily modified) tilemap and semi-randomly places trees, lakes and lake objects in it. 
 
