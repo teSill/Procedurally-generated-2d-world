@@ -13,3 +13,7 @@ Contains simple sprites (my horrendous pixel art experiments) and some other bas
   - Escape (Hastily runs away from the player)
 - Chopping trees
   - Colliding with trees will chop them down (replace the tree sprite with a trunk sprite) and respawn the tree (undo sprite change) after X seconds
+
+
+![procedurally_generated_map](https://github.com/teSill/Procedurally-generated-2d-world/blob/master/Pics/map.png?raw=true)
+![random_view](https://github.com/teSill/Procedurally-generated-2d-world/blob/master/Pics/random_view.png?raw=true)
